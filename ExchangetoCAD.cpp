@@ -1,17 +1,11 @@
-//Canada.cpp by Steven Conyers 4/5/2021
+/* CanadianExchangeRate.cpp by Steven Conyers
+Created: 4/5/2021
+Updated: 2/7/2024
 
-/* Input:  Keyboard*/
-/* Output: Screen*/
-/* This program converts American currency (USD) to Canadian currency (CAD).
-   Canadian RATE has been defined. This allows RATE and comment date to be changed without modifying code.
-   With cout, the user is asked to enter in US currency amount.
-   cin allows the user to enter in data.
-   The amount entered in by the user will then be converted to total CAD and displayed on the screen by cout */
-   
-   
+
 #include <iostream>
 #include <iomanip>			/* I/O library */
-#define RATE  1.259018 	/* Currency rate as of 4/8/2021 */
+#define RATE  1.35 	/* Currency rate as of 2/7/2024 */
 using namespace std;
 
 int main(void)
