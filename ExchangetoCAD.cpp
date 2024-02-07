@@ -4,7 +4,7 @@ Updated: 2/7/2024
 
 
 #include <iostream>
-#include <iomanip>			/* I/O library */
+#include <iomanip>	/* I/O library */
 #define RATE  1.35 	/* Currency rate as of 2/7/2024 */
 using namespace std;
 
